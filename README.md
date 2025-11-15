@@ -1,110 +1,25 @@
-🌟 Hi, I'm Jubair Ahmed
-Full-Stack Developer (MERN | Next.js | TypeScript | PostgreSQL)
+<h1 align="center">Hi 👋, I'm Jubair Ahmed</h1>
+<h3 align="center">Full-Stack Developer (MERN | Next.js | TypeScript | PostgreSQL)</h3>
 
-🚀 Passionate about building scalable, modern, full-stack applications with clean architecture, strong backend logic, and smooth UI/UX.
+- 🔭 I’m currently working on **Ademize Solutions**
 
-I specialize in JavaScript/TypeScript-based ecosystems and love working with advanced frameworks like Next.js, creating powerful REST APIs, real-time applications, and production-ready systems.
+- 🌱 I’m currently learning **Python,Machine Learning & Deep Learning ai**
 
-🔧 Tech Stack
-Frontend
+- 👨‍💻 All of my projects are available at [https://jubair-ahmed.vercel.app/](https://jubair-ahmed.vercel.app/)
 
-⚛️ React.js
+- 📝 I regularly write articles on [https://jubair-ahmed.vercel.app/blogs](https://jubair-ahmed.vercel.app/blogs)
 
-▲ Next.js 14 (App Router)
+- 💬 Ask me about **Reactjs, Nextjs, Nodejs, Expressjs**
 
-🧩 TypeScript
+- 📫 How to reach me **jubairahmed060@gmail.com**
 
-🎨 Tailwind CSS
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Mf2HoFapP226BYIIeg4_AFJt0qPqDop/view?usp=sharing](https://drive.google.com/file/d/16Mf2HoFapP226BYIIeg4_AFJt0qPqDop/view?usp=sharing)
 
-🧠 Zustand / Redux Toolkit
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@jubaira13051769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jubaira13051769" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jubairahmed10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jubairahmed10/" height="30" width="40" /></a>
+</p>
 
-💫 Framer Motion
-
-Backend
-
-🟢 Node.js
-
-🚂 Express.js
-
-🛠 REST API Development
-
-🔐 Authentication (JWT, NextAuth)
-
-↔️ WebSockets / Socket.io (Real-time apps)
-
-Databases
-
-🗄 MongoDB (Native Driver)
-
-🌀 PostgreSQL
-
-🪣 Firebase / Redis (optional)
-
-Tools & DevOps
-
-🐳 Docker (beginner)
-
-🔄 Git & GitHub
-
-☁️ Vercel / Netlify
-
-🧪 Postman
-
-🌐 Nginx (basic)
-
-🚀 What I Do
-
-Build full-stack web applications using MERN and Next.js
-
-Develop clean, modular, scalable backend architectures
-
-Create optimised UI/UX with animations
-
-Work with relational & non-relational databases
-
-Work on real-time systems (chat, notifications, live updates)
-
-Integrate payment gateways (Stripe, SSLCommerz)
-
-Write production-quality API services
-
-Follow best practices (Clean Code, MVC, Error Handling)
-
-📌 Highlighted Projects
-
-Real-Time Chat Application (MERN + Socket.io)
-
-E-commerce Website (Next.js + PostgreSQL)
-
-Admin Dashboard with Analytics (Next.js + REST API)
-
-Payment Integration with Stripe / SSLCommerz
-
-Full Authentication System (NextAuth + JWT)
-
-Dynamic Navigation & CMS-Driven Website
-
-(Add your own links here)
-
-📈 GitHub Stats
-
-🤝 Connect With Me
-
-🌐 Portfolio: your website link
-💼 LinkedIn: your linkedin link
-📧 Email: your email here
-
-✨ About Me
-
-I continuously learn new technologies, build projects, and improve my problem-solving skills.
-I believe in writing clean code, following best practices, and building applications that provide real value.
-
-If you want, I can also customize this README with:
-
-✔ Stylish badges
-✔ Animated header banner
-✔ Custom GitHub streak stats
-✔ A logo or profile image
-✔ More project sections
-
-Just tell me — “Make it more premium” or “Add badges” 😊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
