@@ -3,7 +3,7 @@
 # 🚀 Jubair Ahmed
 ### 💻 Full-Stack Developer | MERN | Next.js | AI Explorer
 
-[![Jubair Ahmed Portfolio](https://i.ibb.co/Xf8Y6rWn/image-9421dd.jpg)](https://jubair-ahmed.vercel.app/)
+[![Jubair Ahmed Portfolio](https://i.ibb.co.com/4nZDgHJ9/Screenshot-2026-05-03-at-1-17-54-AM.png)](https://jubair-ahmed.vercel.app/)
 
 </div>
 
