@@ -107,7 +107,5 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff" />
-
+  <img src="https://i.ibb.co.com/Z1WZMJtF/Your-paragraph-text-2.png" alt="Footer Banner" width="100%" />
 </div>
