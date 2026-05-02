@@ -5,18 +5,21 @@
 <div align="center">
 
 # 🚀 Jubair Ahmed  
-### 💻 Full-Stack Engineer | AI-Powered Developer  
+### 💻 Full-Stack Developer | MERN | Next.js | AI Explorer  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Let's%20Code%20Your%20Career&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Jubair%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI-Powered%20Developer&descSize=18&descAlignY=65" />
 
 </div>
 
 ---
 
-## 🧠 Our Mission_
+## 🧠 About Me_
 
-> Build intelligent, scalable, and real-world impactful digital products  
-> combining **Full-Stack Engineering + AI Automation**
+> I am a **Full-Stack Developer** specializing in **MERN Stack & Next.js**,  
+> focused on building **scalable, modern, and AI-powered web applications**.
+
+> I love turning ideas into real-world products with clean architecture,  
+> smooth UI/UX, and powerful backend systems.
 
 ---
 
@@ -24,9 +27,9 @@
 
 <div align="center">
 
-| 🚀 Projects | 🤝 Clients | ⚡ Experience |
-|------------|-----------|--------------|
-| 20+        | 10+       | 2+ Years     |
+| 🚀 Projects Built | ⚡ Skills | 💼 Experience |
+|------------------|----------|--------------|
+| 20+              | MERN + AI | 2+ Years     |
 
 </div>
 
@@ -48,19 +51,19 @@
 
 <div align="center">
 
-| 🧑‍💻 Zero → Career | 🛠 Support | 💼 Job Ready |
-|------------------|-----------|-------------|
-| Beginner to Pro  | Mentorship | Real Projects |
+| 🧑‍💻 Problem Solver | ⚡ Fast Learner | 💼 Real Projects |
+|--------------------|--------------|----------------|
+| Clean Code Mindset | Adapt Quickly | Production Apps |
 
-| 🧰 Utilities | 📦 Project Based | 🎥 Live Learning |
-|-------------|----------------|-----------------|
-| Tools & Systems | Real Apps | Continuous Growth |
+| 🧠 AI Integration | 🚀 Scalable Systems | 🎯 Focused Growth |
+|-----------------|-------------------|----------------|
+| Smart Features  | Modern Architecture | Continuous Learning |
 
 </div>
 
 ---
 
-## 🛠️ What You Will Learn From Me_
+## 🛠️ Tech Stack_
 
 <div align="center">
 
@@ -68,6 +71,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
 ### ⚙️ Backend
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge)
@@ -77,7 +81,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 
-### 🤖 AI
+### 🤖 AI / Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 
@@ -91,10 +95,10 @@
 
 | Project | Description |
 |--------|------------|
-| 🏢 **Ademize Solutions** | Business platform (MERN + Next.js) |
-| 🤖 **AI Assistant** | GPT-powered smart assistant |
+| 🏢 **Ademize Solutions** | Full business platform with MERN + Next.js |
+| 🤖 **AI Assistant** | Smart assistant using OpenAI API |
 | 🛒 **E-Commerce App** | Full-stack shopping platform |
-| 📊 **Dashboard** | Real-time analytics system |
+| 📊 **Dashboard System** | Real-time analytics & admin panel |
 
 </div>
 
@@ -128,12 +132,13 @@
 
 ## 💡 Dev Philosophy
 
-> ⚡ *Build fast. Learn deeply. Scale smart. Automate everything.*
+> ⚡ Build fast. Learn deeply. Improve continuously.  
+> 🚀 Focus on real-world impact, not just code.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer&text=Explore%20More&fontSize=20&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff" />
 
 </div>
