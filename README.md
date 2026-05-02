@@ -1,13 +1,9 @@
-<!-- ========================================= -->
-<!--           JUBAIR AHMED PROFILE            -->
-<!-- ========================================= -->
-
 <div align="center">
 
-# 🚀 Jubair Ahmed  
-### 💻 Full-Stack Developer | MERN | Next.js | AI Explorer  
+# 🚀 Jubair Ahmed
+### 💻 Full-Stack Developer | MERN | Next.js | AI Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Jubair%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI-Powered%20Developer&descSize=18&descAlignY=65" />
+[![Jubair Ahmed Portfolio](https://i.ibb.co/Xf8Y6rWn/image-9421dd.jpg)](https://jubair-ahmed.vercel.app/)
 
 </div>
 
@@ -28,8 +24,8 @@
 <div align="center">
 
 | 🚀 Projects Built | ⚡ Skills | 💼 Experience |
-|------------------|----------|--------------|
-| 20+              | MERN + AI | 2+ Years     |
+|:---:|:---:|:---:|
+| 20+ | MERN + AI | 2+ Years |
 
 </div>
 
@@ -39,8 +35,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://jubair-ahmed.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jubairahmed10)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://jubair-ahmed.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jubairahmed10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jubairahmed060@gmail.com)
 
 </div>
@@ -52,12 +48,12 @@
 <div align="center">
 
 | 🧑‍💻 Problem Solver | ⚡ Fast Learner | 💼 Real Projects |
-|--------------------|--------------|----------------|
+|:---:|:---:|:---:|
 | Clean Code Mindset | Adapt Quickly | Production Apps |
 
 | 🧠 AI Integration | 🚀 Scalable Systems | 🎯 Focused Growth |
-|-----------------|-------------------|----------------|
-| Smart Features  | Modern Architecture | Continuous Learning |
+|:---:|:---:|:---:|
+| Smart Features | Modern Architecture | Continuous Learning |
 
 </div>
 
@@ -94,7 +90,7 @@
 <div align="center">
 
 | Project | Description |
-|--------|------------|
+|:---|:---|
 | 🏢 **Ademize Solutions** | Full business platform with MERN + Next.js |
 | 🤖 **AI Assistant** | Smart assistant using OpenAI API |
 | 🛒 **E-Commerce App** | Full-stack shopping platform |
@@ -123,7 +119,7 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](#)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](#)
 
 </div>
