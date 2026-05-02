@@ -4,7 +4,7 @@
 ### 💻 Full-Stack Developer | MERN | Next.js | AI Explorer
 
 <a href="https://jubair-ahmed.vercel.app/">
-  <img src="https://i.ibb.co/Xf8Y6rWn/image-9421dd.jpg" alt="Rapid Development, Lasting Impact—Just 1 Week!" width="100%" />
+  <img src="https://i.ibb.co.com/0RsXtc6S/Your-paragraph-text-1.png" alt="Rapid Development, Lasting Impact—Just 1 Week!" width="100%" />
 </a>
 
 <br/>
