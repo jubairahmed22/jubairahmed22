@@ -31,7 +31,7 @@
 
 | 🚀 Projects Built | ⚡ Skills | 💼 Experience |
 |:---:|:---:|:---:|
-| 20+ | MERN + AI | 2+ Years |
+| 20+ | MERN + AI | 3+ Years |
 
 </div>
 
