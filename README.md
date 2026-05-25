@@ -10,7 +10,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20View%20Projects-000?style=for-the-badge)](https://jubair-ahmed.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-white?style=for-the-badge&logo=google-docs&logoColor=blue)](https://docs.google.com/document/d/1Rx9rALdJ50RINF_O-I6HydRNMc_K92qfZrMjHSTRYqI/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-white?style=for-the-badge&logo=google-docs&logoColor=blue)](https://drive.google.com/file/d/1pYvyV7JqZZJ-W7JgSk2kSQLKQLbC-F_A/view?usp=sharing)
 
 </div>
 
